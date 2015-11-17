@@ -1,4 +1,7 @@
 # simple-node-server
+
+> 輕量的 server, 簡單的 demo 靜態網頁~ lol
+
 一個簡單的server
 
 ### == 使用方法 ==
@@ -17,4 +20,3 @@
 
 `open http://localhost:3000` 
 
-> 輕量的 server, 簡單的 demo 靜態網頁~ lol
